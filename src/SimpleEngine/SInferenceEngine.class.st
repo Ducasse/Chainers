@@ -4,8 +4,8 @@ Note that we can and a rule implying other rules.
 For example 
 
 Rule: rectangle
-IF Parallelogram AND 90 degree angles 
-THEN Rectangle
+	IF Parallelogram AND 90 degree angles 
+	THEN Rectangle
 
 Parallelogram can be either a fact or again a rule.
 
